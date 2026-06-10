@@ -1,0 +1,11 @@
+.next
+node_modules
+.npm-cache
+data
+public/uploads/*
+!public/uploads/.gitkeep
+.env.local
+.env.production
+*.zip
+deploy-remote.ps1
+*.traineddata

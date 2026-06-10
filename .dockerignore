@@ -1,0 +1,9 @@
+node_modules
+.next
+.npm-cache
+data
+public/uploads/*
+!public/uploads/.gitkeep
+.env.local
+.env.production
+*.log
